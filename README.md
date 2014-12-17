@@ -1,7 +1,7 @@
 POODLE
 ======
 
-POODLE PoC witten in Java
+POODLE Proof of Concept code. Witten in Java.
 
 To run the code:
 
