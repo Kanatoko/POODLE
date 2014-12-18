@@ -1,7 +1,7 @@
 POODLE
 ======
 
-POODLE Proof of Concept code. Witten in Java.
+POODLE Proof of Concept code. Written in Java.
 
 To run the code:
 
